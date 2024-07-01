@@ -7,4 +7,6 @@ This workshop was divided into two main parts: The first part, **"Knowledge Grap
 
 I used the provided [Gitpod](https://graphacademy.neo4j.com/courses/genai-workshop/1-knowledge-graphs-vectors/1-getting-started/lab/) as an online IDE and workspace for this workshop rather than cloning the repository and setting up the environment locally on my  local machine as it gives me the region problem when calling the OpenAI-API-Key in the further steps. Using Gitpod  will automatically clone the workshop repository and set up the environment in a cloud-based format.
 
+⚠⚠ Note: One of the points that should be taken into account is that after a few days the username and password of Neo4j will change and the information in the `.env` file must be updated.
+
 
